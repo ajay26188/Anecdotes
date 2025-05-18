@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #343a40;
+    color: white;
+  }
+  
+  .nav-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .nav-right {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-right a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .nav-right a:hover {
+    color: #0dcaf0;
+  }
+  

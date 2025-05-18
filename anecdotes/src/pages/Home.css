@@ -17,7 +17,7 @@ body {
   
   .home-content {
     max-width: 800px;
-    background-color: rgba(255, 255, 255, 0.95); /* slightly transparent white for better readability */
+    background-color: rgba(255, 255, 255, 0.95); 
     padding: 2.5rem;
     border-radius: 20px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
